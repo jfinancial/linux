@@ -17,9 +17,9 @@ Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing 
 - [Crucial Ballistix RGB 64GB (2x32GB) DDR4 PC4-28800C16 3600MHz Dual Channel Kit MY-20V-CR](https://www.overclockers.co.uk/crucial-ballistix-rgb-64gb-2x32gb-ddr4-pc4-28800c16-3600mhz-dual-channel-kit-my-20v-cr.html)
 - [WD Black SN850 2TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive](https://www.scan.co.uk/products/2tb-wd-black-sn850-m2-2280-pcie-40-x4-nvme-ssd-3d-nand-7000mb-s-read-5100mb-s-write)
 - [Silverstone SUGO 15 Mini ITX Case](https://www.scan.co.uk/products/silverstone-sugo-15-black-mini-itx-cube-chassis-1x-120mm-fan-usb-type-c-mdtx-mitx)
-- [2 x Noctua NF-A12x25 PWM, Premium Quiet Fan, 4-Pin (120mm, Brown](https://www.amazon.co.uk/gp/product/B07C5VG64V)
-- [Seasonic PRIME Fanless PX500](https://www.scan.co.uk/products/500w-seasonic-prime-fanless-px-full-modular-80-plus-platinum-sli-crossfire-single-rail-41a-atx-psu)
-- [Akasa M.2 SSD Aluminium Heatsink Cooler for any 2280 SSD Black (2021 Update)](https://www.scan.co.uk/products/akasa-aluminium-passive-cooling-kit-for-m2-2280-ssd)
+- [2 x Noctua NF-A12x25 PWM, Premium Quiet Fan, 4-Pin (120mm, Brown)](https://www.amazon.co.uk/gp/product/B07C5VG64V)
+- [Seasonic PRIME Fanless PX500 Power Supply](https://www.scan.co.uk/products/500w-seasonic-prime-fanless-px-full-modular-80-plus-platinum-sli-crossfire-single-rail-41a-atx-psu)
+- [Akasa M.2 SSD Aluminium Heatsink Cooler (2021 Update)](https://www.scan.co.uk/products/akasa-aluminium-passive-cooling-kit-for-m2-2280-ssd)
 
 ### Build Notes:
 - The above build is a MiniITX build which crams a lot into a very small space so care must be taken during assembly particularly around mounting the cooler and also the SATA cables. The SATA ports push right up against the SUGO's housing for the power supply so right-angled SATA cables may be required 
