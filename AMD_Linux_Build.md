@@ -4,7 +4,7 @@ This describes a mini-ITX X570 build running Unbuntu Server 20.04 with a spec of
 
 The build was intended to provide maximum performance with a small footprint and to be as quiet as possible.
 
-Both the motherboard board and processor can run hot so cooling must be carefully conidered so an AIO water cooling solution is a must foer this kind of build.  
+Both the motherboard board and processor can run hot so cooling must be carefully conidered so an AIO water cooling solution is a must for this type of build.  
 
 Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing cheaper processor, less RAM and a cheaper SSD option (although the board has PCIe4.0 which is a major plus)
 
