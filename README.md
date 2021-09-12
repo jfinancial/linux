@@ -6,4 +6,4 @@ These are notes on building a Linux development server for fullstack developers 
 
 2. [Setting up the development server](./Post_Build_Setup.md)
 
-3, [Linux Cheatsheet](./linux.md)
+3. [Linux Cheatsheet](./linux.md)
