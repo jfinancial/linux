@@ -3,13 +3,14 @@
 This describes a mini-ITX X570 build running Unbuntu Server 20.04 with a spec of AMD Ryzen 16 cores, 64GB RAM and 2TB SSD M.2 [PCie4.0](https://www.onlogic.com/company/io-hub/your-ultimate-guide-to-understanding-pcie-4-0/).
 The build was intended to provide maximum performance with a small footprint and to be as quiet as possible.
 Both the motherboard board and processor can run hot so cooling must be carefully conidered so an AIO water cooling solution is a must foer this kind of build.  
+Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing cheaper processor, less RAM and a cheaper SSD option (although the board has PCIe4.0 which is a major plus)
 
 ### Build Components:
 - [AMD Ryzen 9 5950X 16 Core AM4](https://www.scan.co.uk/products/amd-ryzen-9-5950x-am4-zen-3-16-core-32-thread-34ghz-49ghz-turbo-72mb-cache-pcie-40-105w-cpu)
 - [ASRock X570 ITX/TB3](https://www.asrock.com/mb/AMD/X570%20Phantom%20Gaming-ITXTB3/#BIOS)
 - [Corsair iCUE 100i PRO XT](https://www.amazon.co.uk/gp/product/B0829RTMKY)
 - [Crucial Ballistix RGB 64GB (2x32GB) DDR4 PC4-28800C16 3600MHz Dual Channel Kit MY-20V-CR](https://www.overclockers.co.uk/crucial-ballistix-rgb-64gb-2x32gb-ddr4-pc4-28800c16-3600mhz-dual-channel-kit-my-20v-cr.html)
-= [WD Black SN850 2TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive](https://www.scan.co.uk/products/2tb-wd-black-sn850-m2-2280-pcie-40-x4-nvme-ssd-3d-nand-7000mb-s-read-5100mb-s-write)
+- [WD Black SN850 2TB M.2 PCIe 4.0 Gen4 NVMe SSD/Solid State Drive](https://www.scan.co.uk/products/2tb-wd-black-sn850-m2-2280-pcie-40-x4-nvme-ssd-3d-nand-7000mb-s-read-5100mb-s-write)
 - [Silverstone SUGO 15 Mini ITX Case](https://www.scan.co.uk/products/silverstone-sugo-15-black-mini-itx-cube-chassis-1x-120mm-fan-usb-type-c-mdtx-mitx)
 - [2 x Noctua NF-A12x25 PWM, Premium Quiet Fan, 4-Pin (120mm, Brown](https://www.amazon.co.uk/gp/product/B07C5VG64V)
 - [Seasonic PRIME Fanless PX500](https://www.scan.co.uk/products/500w-seasonic-prime-fanless-px-full-modular-80-plus-platinum-sli-crossfire-single-rail-41a-atx-psu)
