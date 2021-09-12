@@ -56,3 +56,5 @@ Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing 
 ```
 
 - Possibly add  `acpi=ht irqpoll` => ht = hyperthreading and irqpoll will make the kernel poll for interrupts 
+
+![image](images/finished.jpg)
