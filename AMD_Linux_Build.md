@@ -1,9 +1,14 @@
-## Setting Up Linux Server
+## Building An Unbuntu Linux Development Server
 
 This describes a mini-ITX X570 build running Unbuntu Server 20.04 with a spec of AMD Ryzen 16 cores, 64GB RAM and 2TB SSD M.2 [PCie4.0](https://www.onlogic.com/company/io-hub/your-ultimate-guide-to-understanding-pcie-4-0/).
+
 The build was intended to provide maximum performance with a small footprint and to be as quiet as possible.
+
 Both the motherboard board and processor can run hot so cooling must be carefully conidered so an AIO water cooling solution is a must foer this kind of build.  
+
 Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing cheaper processor, less RAM and a cheaper SSD option (although the board has PCIe4.0 which is a major plus)
+
+---- 
 
 ### Build Components:
 - [AMD Ryzen 9 5950X 16 Core AM4](https://www.scan.co.uk/products/amd-ryzen-9-5950x-am4-zen-3-16-core-32-thread-34ghz-49ghz-turbo-72mb-cache-pcie-40-105w-cpu)
@@ -22,12 +27,15 @@ Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing 
 - I replaced the fans on the iCUE100 with the Noctua to reduce noise and they are very quiet. 
 - The Corsair iCUE100i normally relies on iCUE software but this is for Windows only - there is [OpenCorsairLink](https://github.com/audiohacked/OpenCorsairLink) which a Linux port and also the newer [liquidctl](https://github.com/liquidctl/liquidctl) 
 
+----
+
 ### Unbuntu installation
 - Unbuntu Server 20.04.03 was installed via a USB and downloaded the ISO [here](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-live-server-amd64.iso?_ga=2.253174090.23663168.1631360313-232329434.1628434012) - the desktop Ubuntu 20.04.3 LTS should also work 
 - From OSX I used [BalenaEtcher](https://www.balena.io/etcher/) to create the bootable USB
 - Initially I tried installing an older version of Unbuntu which appeared to fail during partitioning
 - Once Unbuntu was installed I saw problems with Unbuntu crashing so BIOS changes needed to applied
 
+----
 
 ### BIOS & Boot Loader Changes
 - Set RAM speed/voltage -  Corsair Ballistix runs at 3600MHZ and requires 1.35V
