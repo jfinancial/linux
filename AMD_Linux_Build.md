@@ -1,4 +1,4 @@
-##Setting Up Linux Server
+## Setting Up Linux Server
 
 This describes a mini-ITX X570 build running Unbuntu Server 20.04 with a spec of AMD Ryzen 16 cores, 64GB RAM and 2TB SSD M.2 [PCie4.0](https://www.onlogic.com/company/io-hub/your-ultimate-guide-to-understanding-pcie-4-0/).
 The build was intended to provide maximum performance with a small footprint and to be as quiet as possible.
