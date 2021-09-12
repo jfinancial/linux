@@ -4,6 +4,6 @@ These are notes on building a Linux development server for fullstack developers 
 
 1. [Building an AMD-based mini-ITX Linux Server from scratch](./AMD_Linux_Build.md)
 
-2. [Setting up Linux development server](./Post Build_Setup.md)
+2. [Setting up the development server](./Post_Build_Setup.md)
 
 3, [Linux Cheatsheet](./linux.md)
