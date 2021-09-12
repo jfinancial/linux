@@ -58,7 +58,7 @@ Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing 
 - Possibly add  `acpi=ht irqpoll` => ht = hyperthreading and irqpoll will make the kernel poll for interrupts 
 
 ### Common Problems
-- Problem: Wired network stops working and doing `lshw -C network`  shows `*-network DISABLED`
+- **Wired network stops working** and doing `lshw -C network`  shows `*-network DISABLED`
   Solution: `rm /usr/lib/NetworkManager/conf.d/10-globally-managed-devices.conf`
 
 ![image](images/finished.jpg)
