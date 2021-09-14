@@ -21,13 +21,14 @@ Budget was approximately £2,400 (= $3,300) - cost could be reduced by choosing 
 - [Seasonic PRIME Fanless PX500 Power Supply](https://www.scan.co.uk/products/500w-seasonic-prime-fanless-px-full-modular-80-plus-platinum-sli-crossfire-single-rail-41a-atx-psu)
 - [Akasa M.2 SSD Aluminium Heatsink Cooler (2021 Update)](https://www.scan.co.uk/products/akasa-aluminium-passive-cooling-kit-for-m2-2280-ssd)
 - [SilverStone SST-CP11-300 - Ultra Thin SATA III 6 Gbps Cable, laterial 90° angled, super low profile](https://www.amazon.co.uk/gp/product/B00L6M0LQE/ref=ox_sc_act_title_1?smid=A3P5ROKL5A1OLE&psc=1)
+- [Phobya - 3-Pin to 4-Pin PWM Fan Adaptor 30cm](https://www.amazon.co.uk/Phobya-3-Pin-4-Pin-Adaptor-Black-Sheathed/dp/B004X2X4MW)
 
 ### Build Notes:
 - The above build is a MiniITX build which crams a lot into a very small space so care must be taken during assembly particularly around mounting the cooler and also the SATA cables. The SATA ports push right up against the SUGO's housing for the power supply so ultra-thin, 90° angled SATA cables are recommended 
 - The ASRockX570 doesn't use an AM4 mounting bracket but instead uses LGA 115x mounting. (This mounting is included with the iCUE100 although it may look too big it is actually adjustable). Note that I tried mounting an NZXT Kraken X53 and an Arctic Cooler Liquid Freezer II 240 and both of these wouldn't fit due to other heatsinks on the motherboard!
 - I replaced the fans on the iCUE100 with the Noctua to reduce noise and they are very quiet. 
 - The Corsair iCUE100i normally relies on iCUE software but this is for Windows only - there is [OpenCorsairLink](https://github.com/audiohacked/OpenCorsairLink) which a Linux port and also the newer [liquidctl](https://github.com/liquidctl/liquidctl) 
-
+- The power for the Corsair far is 3 pin - you can connect 3 pin to 4 pin - but the conneciton remains loose so a 3-pint to 4-pin adapter is recommended
 ----
 
 ### Unbuntu installation
