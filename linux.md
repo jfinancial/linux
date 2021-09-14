@@ -16,3 +16,6 @@ The `/etc/sudoers` file controls who can run what commands as what users on what
 #### How many cores
 it
 - `nproc` => prints the number of processing units available in a Linux system. It is part of GNU Core utils.
+
+#### Where are apt repositories listed?
+`/etc/apt/sources.list`
